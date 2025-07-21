@@ -3,7 +3,7 @@
 This Python script utilizes Nmap to perform a port scan with version detection (-sV) and checks for possible exploits using the Exploit Database. The script provides a simple menu allowing the user to choose between a port scan with version detection, a stealth scan (-sS), or exit.
 
 # THE SCRIPT WITH EDEX:
-![MY Image](resources/edex.png)
+![MY Image](edex.png)
 
 
 ## Prerequisites
